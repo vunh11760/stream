@@ -15,6 +15,6 @@
     "start": "node index.js"
   },
   "devDependencies": {
-    "webpack-cli": "^2.1.5"
+    "webpack-cli": "^5.0.1"
   }
 }
